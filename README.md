@@ -25,14 +25,14 @@ An AI-driven WiFi packet capture tool based on a Raspberry Pi Zero 2 W. Pwnagotc
 
 ## 2. 🎭 Evil Twin Module
 
-A rogue access point kit using a NodeMCU (ESP8266/ESP32) and Phishipy for WiFi phishing and credential harvesting.
+A rogue access point kit using a NodeMCU (ESP8266/ESP32) and PhiSiFi for WiFi phishing and credential harvesting.
 
 - **Key Features:**
     - Fast setup of fake APs mimicking legitimate networks
     - Custom captive portals via Phishipy
 - **References:**
-    - [Phishipy GitHub](https://github.com/swisskyrepo/phishipy)
-    - 📜 [My Evil Twin Module Guide]()
+    - [PhiSiFi GitHub](https://github.com/p3tr0s/PhiSiFi)
+    - 📜 [My Evil Twin Module Guide](https://github.com/DhruvJ2/IoT-Projects-for-Cybersecurity/blob/main/Phisifi.md)
 
 ## 3. 📡 M5 Stick C Plus 2 — Bruce Predetory
 
@@ -42,8 +42,8 @@ A compact WiFi hacking toolkit using the M5 Stick C Plus 2, uploaded with Bruce 
     - WiFi reconnaissance, deauth capabilities, OLED display
     - Easy control and script deployment
 - **References:**
-    - [Bruce Predetory Firmware](https://github.com/bruce-lab/bruce-predetory)
-    - 📜 [My M5 Stick C Plus 2 Bruce Predetory Guide]()
+    - [Bruce Predetory Firmware](https://github.com/pr3y/bruce)
+    - 📜 [My M5 Stick C Plus 2 Bruce Predetory Guide](https://github.com/DhruvJ2/IoT-Projects-for-Cybersecurity/blob/main/Bruce.md)
 
 
 ## 4. 🛡️ PiHole (Raspberry Pi Zero 2W)
